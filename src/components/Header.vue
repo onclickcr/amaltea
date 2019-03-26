@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <section id="header" class="container">
     <div class="item border">
       <a href="https://facebook.com/">
         <font-awesome-icon :icon="{prefix:'fab',iconName:'facebook'}" class="icons"/>
@@ -13,7 +13,7 @@
     </div>
     <h1 class="item">Amaltea Coffee</h1>
     <!-- <div class="item">right</div> -->
-  </div>
+  </section>
 </template>
 
 <script>
